@@ -1,6 +1,0 @@
-[submodule "collection_js"]
-	path = collection_js
-	url = https://github.com/wdtyl/collection_js.git
-[submodule "vue-packages"]
-	path = vue-packages
-	url = https://github.com/wdtyl/vue-packages.git
